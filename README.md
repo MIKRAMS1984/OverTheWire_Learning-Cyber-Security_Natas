@@ -8,3 +8,7 @@ Natas teaches the basics of serverside web-security.
 Level 0:   natas0
 
 Password:  natas0 
+
+Level 1: natas1
+
+Password: 0nzCigAq7t2iALyvU9xcHlYN4MlkIwlq
