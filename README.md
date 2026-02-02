@@ -12,3 +12,5 @@ Password:  natas0
 Level 1: natas1
 
 Password: 0nzCigAq7t2iALyvU9xcHlYN4MlkIwlq
+
+The password for natas2 is TguMNxKo1DSa1tujBLuZJnDUlCcUAPlI
