@@ -19,4 +19,7 @@ natas 3: 3gqisGdR0pjm6tpkDKdIWO2hSvchLeYH
 
 natas4:  QryZXc2e0zahULdHrtHxzyYkj59kUxLQ
 
-natas 5:  0n35PkggAPm2zbEpOU802c0x0Msn1ToK
+Username: natas5
+URL:      http://natas5.natas.labs.overthewire.org
+natas 5 Password:  0n35PkggAPm2zbEpOU802c0x0Msn1ToK
+
