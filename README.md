@@ -25,6 +25,7 @@ natas 5 Password:  0n35PkggAPm2zbEpOU802c0x0Msn1ToK\
 Solution\
 curl.exe --cookie "loggedin=1" -u natas5:0n35PkggAPm2zbEpOU802c0x0Msn1ToK http://natas5.natas.labs.overthewire.org/ \
 
+Solution level 6: PS C:\Users\ch> curl.exe -u natas6:0RoJwHdSKWFTYR5WuiAewauSuNaBXned http://natas6.natas.labs.overthewire.org/includes/secret.inc
 Password for level 6: 0RoJwHdSKWFTYR5WuiAewauSuNaBXned\
 Password for level 7: FOEIUWGHFEEUHOFUOIU
 
