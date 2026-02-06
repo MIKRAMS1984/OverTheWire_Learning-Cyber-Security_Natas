@@ -29,6 +29,8 @@ Solution level 6: PS C:\Users\ch> curl.exe -u natas6:0RoJwHdSKWFTYR5WuiAewauSuNa
 Password for level 6: 0RoJwHdSKWFTYR5WuiAewauSuNaBXned\
 Password for level 7: FOEIUWGHFEEUHOFUOIU
 
+The password for natas7 is bmg8SvU1LizuWjx3y7xkNERkHxGre0GS
+
 
 
 
